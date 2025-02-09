@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Internship Diary",
+    "desc": "A web-based diary application built to track and document internship experiences, allowing users to record daily activities, learnings, and reflections. The platform also offers features like viewing past entries and tracking progress over time.",
+    "image": "InternshipDiary",
+    "category": "basicweb",
+    "links": {
+      "view": "https://interdiary.me/",
+      "code": "https://github.com/Deady007/Diary.git"
+    }
+  }
+]
