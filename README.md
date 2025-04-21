@@ -1,36 +1,99 @@
 
-```markdown
-# Portfolio of Viral Parmar
+---
 
-Welcome to my personal portfolio website. I am Viral Parmar, a passionate Full-Stack Web Developer and Tester, based in Vadodara, India.
+<h1 align="center">🌐 Viral Parmar</h1>
+<h3 align="center">Full-Stack Web Developer | Software Tester | Tech Enthusiast</h3>
 
-## About Me
-I am currently pursuing my Bachelor's in Computer Applications from The Maharaja Sayajirao University of Baroda. I specialize in building WebApps and Websites using the MERN Stack. I am enthusiastic about coding, developing new applications, and improving my skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-MERN-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tool-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-- **Email**: parmarviral397@gmail.com
-- **Location**: Vadodara, India - 391240
+---
 
-## Skills & Abilities
-I possess expertise in Full-Stack Development, proficiently working with the MERN stack to build scalable and efficient applications.
+## 🧑‍💼 About Me
 
-## Education
-- **Bachelor of Computer Applications** - The Maharaja Sayajirao University of Baroda (2022-2025, Pursuing)
-- **HSC Science (Mathematics)** - Shah NBS High School (Completed 2022)
+Hey there! I'm **Viral Parmar**, a driven and curious developer based in **Vadodara, India** 🇮🇳. I'm currently pursuing a **Bachelor’s in Computer Applications** and enjoy building full-stack applications that solve real-world problems. I love to learn, experiment, and bring ideas to life through code!
 
-## Experience
-- **Laravel Developer | Internship** - Deepak Foundation (Dec 2024 - Mar-2025)
-- **Participant** - Cyber Security Workshop (Sep 2023)
-- **Project Developer** - Various College Projects (2023-2024)
-  - Esports Management System
-  - Personal Weather App
-  - Money Management System
+- 🔭 Currently working as a Laravel Intern  
+- 💻 Passionate about MERN stack development  
+- 🧪 Exploring Software Testing & Cybersecurity  
+- 🌱 Learning DevOps, APIs & Scalable Architecture  
 
-## Projects
-Find my projects under various categories like MERN Stack, LAMP Stack, and Basic Web Development on my [portfolio website](https://github.com/Deady007/My-site).
+📧 **Email**: [parmarviral397@gmail.com](mailto:parmarviral397@gmail.com)  
+🌐 **Portfolio**: [My Website](https://github.com/Deady007/My-site)
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/Viral-Parmar/)
-- [GitHub](https://github.com/Viral-Parmar)
-- [Twitter](https://twitter.com/Viral_Parmar)
-- [Telegram](https://t.me/lifecode5)
+---
+
+## 🛠️ Tech Stack & Tools
+
+```bash
+💻 Languages:      JavaScript | PHP | HTML | CSS | SQL
+⚙️ Frameworks:     React.js | Node.js | Express.js | Laravel | Bootstrap | Tailwind
+🗃️ Databases:      MongoDB | MySQL
+🧪 Testing:        Manual Testing | Bug Tracking | Test Cases
+🛠️ Tools & IDEs:   Git | GitHub | VS Code | Postman | Figma
 ```
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 Bachelor of Computer Applications | The Maharaja Sayajirao University of Baroda | 2022–2025 *(Pursuing)* |
+| 📘 HSC – Science (Mathematics) | Shah NBS High School | 2022 |
+
+---
+
+## 💼 Experience
+
+- 💼 **Laravel Developer Intern** – *Deepak Foundation*  
+  `Dec 2024 – Mar 2025`  
+  Worked on web app development using Laravel, designed MySQL databases, and collaborated on live projects.
+
+- 🛡️ **Cybersecurity Workshop Participant**  
+  Participated in hands-on sessions on ethical hacking, network security, and threat detection.
+
+- 🧠 **Project Developer (2023-24)**  
+  Created various academic and side projects:
+  - 🎮 Esports Management System  
+  - 🌦️ Personal Weather App  
+  - 💰 Money Management System  
+
+---
+
+## 🚀 Projects
+
+🔍 Check out my work on [GitHub →](https://github.com/Deady007)
+
+| Project | Tech Stack | Description |
+|--------|-------------|-------------|
+| **Esports Management System** | Laravel, MySQL | Manage tournaments, players, and scores |
+| **Personal Weather App** | React, API | Live weather data with location search |
+| **Money Management System** | MERN Stack | Track income, expenses, and budgeting |
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parmar-viral-13m711/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Deady007"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/Viral_Parmar"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/lifecode5"><img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</p>
+
+<p align="center">
+  💻 *"Code is not just my work, it's my passion."* 🚀  
+</p>
+```
+
+---
